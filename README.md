@@ -28,6 +28,39 @@ Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; C &nbsp; | &nbsp; C++ &nbsp; | &nbsp
 
 ---
 
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/debxarjun">
+    <img src="https://img.shields.io/badge/GitHub-DEBARJUN-black?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://www.linkedin.com/in/debarjun-chatterjee-02b843335/recent-activity/all/">
+    <img src="https://img.shields.io/badge/LinkedIn-DEBARJUN-red?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://instagram.com/debxarjun">
+    <img src="https://img.shields.io/badge/Instagram-DEBARJUN-darkred?style=for-the-badge&logo=instagram">
+  </a>
+
+  <a href="mailto:devchatterjee1707@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-CONTACT-red?style=for-the-badge&logo=gmail">
+  </a>
+
+  <a href="https://debxarjun.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-VISIT_SITE-blue?style=for-the-badge&logo=googlechrome">
+  </a>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+</p>
+
 # 🛠️ Languages & Tools
 
 <p align="left">
