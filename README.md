@@ -7,7 +7,7 @@ Full Stack Developer | Mechatronics Student | Tech Explorer
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;AI+%26+Automation+Enthusiast;Cyberpunk+Website+Creator;Always+Learning+New+Things&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;AI+%26+Automation+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
 </p>
 
 ---
@@ -33,9 +33,9 @@ Full Stack Developer | Mechatronics Student | Tech Explorer
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=debxarjun&show_icons=true&theme=tokyonight" height="170">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=debxarjun&theme=tokyonight" height="170">
 </p>
 
 ---
@@ -43,7 +43,7 @@ Full Stack Developer | Mechatronics Student | Tech Explorer
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/debxarjun">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
