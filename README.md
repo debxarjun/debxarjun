@@ -1,14 +1,12 @@
-<h1 align="center">Hi I'm Debarjun 👋</h1>
-
-<h3 align="center">
-Full Stack Developer | Mechatronics Student | Tech Explorer
-</h3>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,FF0000,B22222&height=220&section=header&text=Hi%20I'm%20Debarjun%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Code%20Explorer%20|%20Lifelong%20Learner&descAlignY=60&descSize=22"/>
+</p>
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer;AI+%26+Automation+Enthusiast;Always+Learning+New+Things&center=true&width=500&height=45">
-</p>
+<h2 align="center">
+  Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; C &nbsp; | &nbsp; C++ &nbsp; | &nbsp; JavaScript
+</h2>
 
 ---
 
