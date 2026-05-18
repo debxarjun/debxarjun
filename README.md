@@ -58,7 +58,7 @@ Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; C &nbsp; | &nbsp; C++ &nbsp; | &nbsp
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/debxarjun/debxarjun/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 # 🛠️ Languages & Tools
