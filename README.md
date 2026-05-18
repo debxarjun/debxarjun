@@ -1,11 +1,19 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,FF0000,B22222&height=220&section=header&text=Hi%20I'm%20Debarjun%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Code%20Explorer%20|%20Lifelong%20Learner&descAlignY=60&descSize=22"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Hi%20I'm%20Debarjun%20👋&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<h3 align="center">
+Full Stack Developer | Code Explorer | Lifelong Learner
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Web+Developer;AI+%26+Automation+Enthusiast;Cyberpunk+Website+Creator;Always+Learning+New+Things" />
 </p>
 
 <br>
 
 <h2 align="center">
-  Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; C &nbsp; | &nbsp; C++ &nbsp; | &nbsp; JavaScript
+Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; C &nbsp; | &nbsp; C++ &nbsp; | &nbsp; JavaScript
 </h2>
 
 ---
