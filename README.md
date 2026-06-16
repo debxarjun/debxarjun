@@ -7,7 +7,7 @@ Full Stack Developer | Code Explorer | Lifelong Learner
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Web+Developer;AI+%26+Automation+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Web+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <br>
