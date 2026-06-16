@@ -20,10 +20,10 @@ Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; C &nbsp; | &nbsp; C++ &nbsp; | &nbsp
 
 # 👨‍💻 About Me
 
-- 🎓 Mechatronics & Automation Student  
+- 🎓 CSE Student  
 - 💻 Passionate about futuristic web development  
 - 🚀 Building creative and interactive websites  
-- 🤖 Interested in AI, Robotics & Automation  
+- 🤖 Interested in AI, ML & Robotics 
 - 🌌 Love blending technology with aesthetics  
 
 ---
