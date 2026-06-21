@@ -48,7 +48,7 @@ Python &nbsp; | &nbsp; Java &nbsp; | &nbsp; C &nbsp; | &nbsp; C++ &nbsp; | &nbsp
     <img src="https://img.shields.io/badge/Gmail-CONTACT-red?style=for-the-badge&logo=gmail">
   </a>
 
-  <a href="https://debxarjun.github.io/portfolio/">
+  <a href="https://portfolio-deb.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-VISIT_SITE-blue?style=for-the-badge&logo=googlechrome">
   </a>
 </p>
